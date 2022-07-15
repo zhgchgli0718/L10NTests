@@ -1,0 +1,13 @@
+/* 
+  Localized.strings
+  L10NTests
+
+  Created by ZhgChgLi on 2022/7/15.
+  
+*/
+
+"HOME_TITLE" = "我是首頁標題";
+
+"HOME_SUB_TITLE" = "我是首頁副標題";
+
+"HOME_DESCRIPTION" = "%@ 您好！";

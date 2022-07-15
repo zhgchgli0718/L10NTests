@@ -1,0 +1,13 @@
+/* 
+  Localized.strings
+  L10NTests
+
+  Created by ZhgChgLi on 2022/7/15.
+  
+*/
+
+"HOME TITLE" = "私はホームページのタイトルです";
+
+"HOME SUB_TITLE" = "私はホームページのサブタイトルです";
+
+"HOME_DESCRIPTION" = "％@ Hello！";

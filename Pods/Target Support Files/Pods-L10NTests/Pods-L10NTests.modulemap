@@ -1,0 +1,6 @@
+framework module Pods_L10NTests {
+  umbrella header "Pods-L10NTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

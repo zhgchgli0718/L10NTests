@@ -1,0 +1,13 @@
+/* 
+  Localized.strings
+  L10NTests
+
+  Created by ZhgChgLi on 2022/7/15.
+  
+*/
+
+"HOME_TITLE" = "Home Title";
+
+"HOME_SUB_TITLE" = "Home Sub Title";
+
+"HOME_DESCRIPTION" = "Hi %@ ！";
